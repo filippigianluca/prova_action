@@ -1,0 +1,7 @@
+function tests = fancyTest
+
+    tests = functiontests(localfunctions);
+end
+
+function testsfab
+
